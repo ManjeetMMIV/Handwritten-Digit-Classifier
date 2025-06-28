@@ -57,6 +57,6 @@ if st.button('Predict Now'):
 
 # Add sidebar
 st.sidebar.title("About")
-st.sidebar.text("Created by Vinay Uniyal")
+st.sidebar.text("Created by Manjeet Singh")
 st.sidebar.text("GitHub Repository")
-st.sidebar.write("[GitHub Repo Link](https://github.com/Vinay2022/Handwritten-Digit-Recognition)")
+st.sidebar.write("[GitHub Repo Link](https://github.com/ManjeetMMIV/Handwritten-Digit-Classifier)")
